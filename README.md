@@ -1,1 +1,1 @@
-# react https:sysdc.netlify.app
+# react https://sysdc.netlify.app/
